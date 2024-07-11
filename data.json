@@ -1,0 +1,2802 @@
+[
+  {
+    "User ID": 15624510,
+    "Gender": "Male",
+    "Age": 19,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15810944,
+    "Gender": "Male",
+    "Age": 35,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15668575,
+    "Gender": "Female",
+    "Age": 26,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15603246,
+    "Gender": "Female",
+    "Age": 27,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15804002,
+    "Gender": "Male",
+    "Age": 19,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15728773,
+    "Gender": "Male",
+    "Age": 27,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15598044,
+    "Gender": "Female",
+    "Age": 27,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15694829,
+    "Gender": "Female",
+    "Age": 32,
+    "EstimatedSalary": "Tinggi",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15600575,
+    "Gender": "Male",
+    "Age": 25,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15727311,
+    "Gender": "Female",
+    "Age": 35,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15570769,
+    "Gender": "Female",
+    "Age": 26,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15606274,
+    "Gender": "Female",
+    "Age": 26,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15746139,
+    "Gender": "Male",
+    "Age": 20,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15704987,
+    "Gender": "Male",
+    "Age": 32,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15628972,
+    "Gender": "Male",
+    "Age": 18,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15697686,
+    "Gender": "Male",
+    "Age": 29,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15733883,
+    "Gender": "Male",
+    "Age": 47,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15617482,
+    "Gender": "Male",
+    "Age": 45,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15704583,
+    "Gender": "Male",
+    "Age": 46,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15621083,
+    "Gender": "Female",
+    "Age": 48,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15649487,
+    "Gender": "Male",
+    "Age": 45,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15736760,
+    "Gender": "Female",
+    "Age": 47,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15714658,
+    "Gender": "Male",
+    "Age": 48,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15599081,
+    "Gender": "Female",
+    "Age": 45,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15705113,
+    "Gender": "Male",
+    "Age": 46,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15631159,
+    "Gender": "Male",
+    "Age": 47,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15792818,
+    "Gender": "Male",
+    "Age": 49,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15633531,
+    "Gender": "Female",
+    "Age": 47,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15744529,
+    "Gender": "Male",
+    "Age": 29,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15669656,
+    "Gender": "Male",
+    "Age": 31,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15581198,
+    "Gender": "Male",
+    "Age": 31,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15729054,
+    "Gender": "Female",
+    "Age": 27,
+    "EstimatedSalary": "Tinggi",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15573452,
+    "Gender": "Female",
+    "Age": 21,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15776733,
+    "Gender": "Female",
+    "Age": 28,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15724858,
+    "Gender": "Male",
+    "Age": 27,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15713144,
+    "Gender": "Male",
+    "Age": 35,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15690188,
+    "Gender": "Female",
+    "Age": 33,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15689425,
+    "Gender": "Male",
+    "Age": 30,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15671766,
+    "Gender": "Female",
+    "Age": 26,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15782806,
+    "Gender": "Female",
+    "Age": 27,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15764419,
+    "Gender": "Female",
+    "Age": 27,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15591915,
+    "Gender": "Female",
+    "Age": 33,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15772798,
+    "Gender": "Male",
+    "Age": 35,
+    "EstimatedSalary": "Tinggi",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15792008,
+    "Gender": "Male",
+    "Age": 30,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15715541,
+    "Gender": "Female",
+    "Age": 28,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15639277,
+    "Gender": "Male",
+    "Age": 23,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15798850,
+    "Gender": "Male",
+    "Age": 25,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15776348,
+    "Gender": "Female",
+    "Age": 27,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15727696,
+    "Gender": "Male",
+    "Age": 30,
+    "EstimatedSalary": "Tinggi",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15793813,
+    "Gender": "Female",
+    "Age": 31,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15694395,
+    "Gender": "Female",
+    "Age": 24,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15764195,
+    "Gender": "Female",
+    "Age": 18,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15744919,
+    "Gender": "Female",
+    "Age": 29,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15671655,
+    "Gender": "Female",
+    "Age": 35,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15654901,
+    "Gender": "Female",
+    "Age": 27,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15649136,
+    "Gender": "Female",
+    "Age": 24,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15775562,
+    "Gender": "Female",
+    "Age": 23,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15807481,
+    "Gender": "Male",
+    "Age": 28,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15642885,
+    "Gender": "Male",
+    "Age": 22,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15789109,
+    "Gender": "Female",
+    "Age": 32,
+    "EstimatedSalary": "Tinggi",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15814004,
+    "Gender": "Male",
+    "Age": 27,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15673619,
+    "Gender": "Male",
+    "Age": 25,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15595135,
+    "Gender": "Female",
+    "Age": 23,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15583681,
+    "Gender": "Male",
+    "Age": 32,
+    "EstimatedSalary": "Tinggi",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15605000,
+    "Gender": "Female",
+    "Age": 59,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15718071,
+    "Gender": "Male",
+    "Age": 24,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15679760,
+    "Gender": "Male",
+    "Age": 24,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15654574,
+    "Gender": "Female",
+    "Age": 23,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15577178,
+    "Gender": "Female",
+    "Age": 22,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15595324,
+    "Gender": "Female",
+    "Age": 31,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15756932,
+    "Gender": "Male",
+    "Age": 25,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15726358,
+    "Gender": "Female",
+    "Age": 24,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15595228,
+    "Gender": "Female",
+    "Age": 20,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15782530,
+    "Gender": "Female",
+    "Age": 33,
+    "EstimatedSalary": "Tinggi",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15592877,
+    "Gender": "Male",
+    "Age": 32,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15651983,
+    "Gender": "Male",
+    "Age": 34,
+    "EstimatedSalary": "Tinggi",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15746737,
+    "Gender": "Male",
+    "Age": 18,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15774179,
+    "Gender": "Female",
+    "Age": 22,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15667265,
+    "Gender": "Female",
+    "Age": 28,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15655123,
+    "Gender": "Female",
+    "Age": 26,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15595917,
+    "Gender": "Male",
+    "Age": 30,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15668385,
+    "Gender": "Male",
+    "Age": 39,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15709476,
+    "Gender": "Male",
+    "Age": 20,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15711218,
+    "Gender": "Male",
+    "Age": 35,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15798659,
+    "Gender": "Female",
+    "Age": 30,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15663939,
+    "Gender": "Female",
+    "Age": 31,
+    "EstimatedSalary": "Tinggi",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15694946,
+    "Gender": "Male",
+    "Age": 24,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15631912,
+    "Gender": "Female",
+    "Age": 28,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15768816,
+    "Gender": "Male",
+    "Age": 26,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15682268,
+    "Gender": "Male",
+    "Age": 35,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15684801,
+    "Gender": "Male",
+    "Age": 22,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15636428,
+    "Gender": "Female",
+    "Age": 30,
+    "EstimatedSalary": "Tinggi",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15809823,
+    "Gender": "Male",
+    "Age": 26,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15699284,
+    "Gender": "Female",
+    "Age": 29,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15786993,
+    "Gender": "Female",
+    "Age": 29,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15709441,
+    "Gender": "Female",
+    "Age": 35,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15710257,
+    "Gender": "Female",
+    "Age": 35,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15582492,
+    "Gender": "Male",
+    "Age": 28,
+    "EstimatedSalary": "Tinggi",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15575694,
+    "Gender": "Male",
+    "Age": 35,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15756820,
+    "Gender": "Female",
+    "Age": 28,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15766289,
+    "Gender": "Male",
+    "Age": 27,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15593014,
+    "Gender": "Male",
+    "Age": 28,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15584545,
+    "Gender": "Female",
+    "Age": 32,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15675949,
+    "Gender": "Female",
+    "Age": 33,
+    "EstimatedSalary": "Tinggi",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15672091,
+    "Gender": "Female",
+    "Age": 19,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15801658,
+    "Gender": "Male",
+    "Age": 21,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15706185,
+    "Gender": "Female",
+    "Age": 26,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15789863,
+    "Gender": "Male",
+    "Age": 27,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15720943,
+    "Gender": "Male",
+    "Age": 26,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15697997,
+    "Gender": "Female",
+    "Age": 38,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15665416,
+    "Gender": "Female",
+    "Age": 39,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15660200,
+    "Gender": "Female",
+    "Age": 37,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15619653,
+    "Gender": "Male",
+    "Age": 38,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15773447,
+    "Gender": "Male",
+    "Age": 37,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15739160,
+    "Gender": "Male",
+    "Age": 42,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15689237,
+    "Gender": "Male",
+    "Age": 40,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15679297,
+    "Gender": "Male",
+    "Age": 35,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15591433,
+    "Gender": "Male",
+    "Age": 36,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15642725,
+    "Gender": "Male",
+    "Age": 40,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15701962,
+    "Gender": "Male",
+    "Age": 41,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15811613,
+    "Gender": "Female",
+    "Age": 36,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15741049,
+    "Gender": "Male",
+    "Age": 37,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15724423,
+    "Gender": "Female",
+    "Age": 40,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15574305,
+    "Gender": "Male",
+    "Age": 35,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15678168,
+    "Gender": "Female",
+    "Age": 41,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15697020,
+    "Gender": "Female",
+    "Age": 39,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15610801,
+    "Gender": "Male",
+    "Age": 42,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15745232,
+    "Gender": "Male",
+    "Age": 26,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15722758,
+    "Gender": "Male",
+    "Age": 30,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15792102,
+    "Gender": "Female",
+    "Age": 26,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15675185,
+    "Gender": "Male",
+    "Age": 31,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15801247,
+    "Gender": "Male",
+    "Age": 33,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15725660,
+    "Gender": "Male",
+    "Age": 30,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15638963,
+    "Gender": "Female",
+    "Age": 21,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15800061,
+    "Gender": "Female",
+    "Age": 28,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15578006,
+    "Gender": "Male",
+    "Age": 23,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15668504,
+    "Gender": "Female",
+    "Age": 20,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15687491,
+    "Gender": "Male",
+    "Age": 30,
+    "EstimatedSalary": "Tinggi",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15610403,
+    "Gender": "Female",
+    "Age": 28,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15741094,
+    "Gender": "Male",
+    "Age": 19,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15807909,
+    "Gender": "Male",
+    "Age": 19,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15666141,
+    "Gender": "Female",
+    "Age": 18,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15617134,
+    "Gender": "Male",
+    "Age": 35,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15783029,
+    "Gender": "Male",
+    "Age": 30,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15622833,
+    "Gender": "Female",
+    "Age": 34,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15746422,
+    "Gender": "Female",
+    "Age": 24,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15750839,
+    "Gender": "Female",
+    "Age": 27,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15749130,
+    "Gender": "Female",
+    "Age": 41,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15779862,
+    "Gender": "Male",
+    "Age": 29,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15767871,
+    "Gender": "Male",
+    "Age": 20,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15679651,
+    "Gender": "Female",
+    "Age": 26,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15576219,
+    "Gender": "Male",
+    "Age": 41,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15699247,
+    "Gender": "Male",
+    "Age": 31,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15619087,
+    "Gender": "Female",
+    "Age": 36,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15605327,
+    "Gender": "Male",
+    "Age": 40,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15610140,
+    "Gender": "Female",
+    "Age": 31,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15791174,
+    "Gender": "Male",
+    "Age": 46,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15602373,
+    "Gender": "Male",
+    "Age": 29,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15762605,
+    "Gender": "Male",
+    "Age": 26,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15598840,
+    "Gender": "Female",
+    "Age": 32,
+    "EstimatedSalary": "Tinggi",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15744279,
+    "Gender": "Male",
+    "Age": 32,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15670619,
+    "Gender": "Male",
+    "Age": 25,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15599533,
+    "Gender": "Female",
+    "Age": 37,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15757837,
+    "Gender": "Male",
+    "Age": 35,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15697574,
+    "Gender": "Female",
+    "Age": 33,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15578738,
+    "Gender": "Female",
+    "Age": 18,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15762228,
+    "Gender": "Female",
+    "Age": 22,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15614827,
+    "Gender": "Female",
+    "Age": 35,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15789815,
+    "Gender": "Male",
+    "Age": 29,
+    "EstimatedSalary": "Tinggi",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15579781,
+    "Gender": "Female",
+    "Age": 29,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15587013,
+    "Gender": "Male",
+    "Age": 21,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15570932,
+    "Gender": "Male",
+    "Age": 34,
+    "EstimatedSalary": "Tinggi",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15794661,
+    "Gender": "Female",
+    "Age": 26,
+    "EstimatedSalary": "Tinggi",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15581654,
+    "Gender": "Female",
+    "Age": 34,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15644296,
+    "Gender": "Female",
+    "Age": 34,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15614420,
+    "Gender": "Female",
+    "Age": 23,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15609653,
+    "Gender": "Female",
+    "Age": 35,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15594577,
+    "Gender": "Male",
+    "Age": 25,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15584114,
+    "Gender": "Male",
+    "Age": 24,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15673367,
+    "Gender": "Female",
+    "Age": 31,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15685576,
+    "Gender": "Male",
+    "Age": 26,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15774727,
+    "Gender": "Female",
+    "Age": 31,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15694288,
+    "Gender": "Female",
+    "Age": 32,
+    "EstimatedSalary": "Tinggi",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15603319,
+    "Gender": "Male",
+    "Age": 33,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15759066,
+    "Gender": "Female",
+    "Age": 33,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15814816,
+    "Gender": "Male",
+    "Age": 31,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15724402,
+    "Gender": "Female",
+    "Age": 20,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15571059,
+    "Gender": "Female",
+    "Age": 33,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15674206,
+    "Gender": "Male",
+    "Age": 35,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15715160,
+    "Gender": "Male",
+    "Age": 28,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15730448,
+    "Gender": "Male",
+    "Age": 24,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15662067,
+    "Gender": "Female",
+    "Age": 19,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15779581,
+    "Gender": "Male",
+    "Age": 29,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15662901,
+    "Gender": "Male",
+    "Age": 19,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15689751,
+    "Gender": "Male",
+    "Age": 28,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15667742,
+    "Gender": "Male",
+    "Age": 34,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15738448,
+    "Gender": "Female",
+    "Age": 30,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15680243,
+    "Gender": "Female",
+    "Age": 20,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15745083,
+    "Gender": "Male",
+    "Age": 26,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15708228,
+    "Gender": "Male",
+    "Age": 35,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15628523,
+    "Gender": "Male",
+    "Age": 35,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15708196,
+    "Gender": "Male",
+    "Age": 49,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15735549,
+    "Gender": "Female",
+    "Age": 39,
+    "EstimatedSalary": "Tinggi",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15809347,
+    "Gender": "Female",
+    "Age": 41,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15660866,
+    "Gender": "Female",
+    "Age": 58,
+    "EstimatedSalary": "Tinggi",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15766609,
+    "Gender": "Female",
+    "Age": 47,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15654230,
+    "Gender": "Female",
+    "Age": 55,
+    "EstimatedSalary": "Tinggi",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15794566,
+    "Gender": "Female",
+    "Age": 52,
+    "EstimatedSalary": "Tinggi",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15800890,
+    "Gender": "Female",
+    "Age": 40,
+    "EstimatedSalary": "Tinggi",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15697424,
+    "Gender": "Female",
+    "Age": 46,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15724536,
+    "Gender": "Female",
+    "Age": 48,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15735878,
+    "Gender": "Male",
+    "Age": 52,
+    "EstimatedSalary": "Tinggi",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15707596,
+    "Gender": "Female",
+    "Age": 59,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15657163,
+    "Gender": "Male",
+    "Age": 35,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15622478,
+    "Gender": "Male",
+    "Age": 47,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15779529,
+    "Gender": "Female",
+    "Age": 60,
+    "EstimatedSalary": "Tinggi",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15636023,
+    "Gender": "Male",
+    "Age": 49,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15582066,
+    "Gender": "Male",
+    "Age": 40,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15666675,
+    "Gender": "Female",
+    "Age": 46,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15732987,
+    "Gender": "Male",
+    "Age": 59,
+    "EstimatedSalary": "Tinggi",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15789432,
+    "Gender": "Female",
+    "Age": 41,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15663161,
+    "Gender": "Male",
+    "Age": 35,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15694879,
+    "Gender": "Male",
+    "Age": 37,
+    "EstimatedSalary": "Tinggi",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15593715,
+    "Gender": "Male",
+    "Age": 60,
+    "EstimatedSalary": "Tinggi",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15575002,
+    "Gender": "Female",
+    "Age": 35,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15622171,
+    "Gender": "Male",
+    "Age": 37,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15795224,
+    "Gender": "Female",
+    "Age": 36,
+    "EstimatedSalary": "Tinggi",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15685346,
+    "Gender": "Male",
+    "Age": 56,
+    "EstimatedSalary": "Tinggi",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15691808,
+    "Gender": "Female",
+    "Age": 40,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15721007,
+    "Gender": "Female",
+    "Age": 42,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15794253,
+    "Gender": "Female",
+    "Age": 35,
+    "EstimatedSalary": "Tinggi",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15694453,
+    "Gender": "Male",
+    "Age": 39,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15813113,
+    "Gender": "Male",
+    "Age": 40,
+    "EstimatedSalary": "Tinggi",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15614187,
+    "Gender": "Male",
+    "Age": 49,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15619407,
+    "Gender": "Female",
+    "Age": 38,
+    "EstimatedSalary": "Tinggi",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15646227,
+    "Gender": "Male",
+    "Age": 46,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15660541,
+    "Gender": "Male",
+    "Age": 40,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15753874,
+    "Gender": "Female",
+    "Age": 37,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15617877,
+    "Gender": "Female",
+    "Age": 46,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15772073,
+    "Gender": "Female",
+    "Age": 53,
+    "EstimatedSalary": "Tinggi",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15701537,
+    "Gender": "Male",
+    "Age": 42,
+    "EstimatedSalary": "Tinggi",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15736228,
+    "Gender": "Male",
+    "Age": 38,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15780572,
+    "Gender": "Female",
+    "Age": 50,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15769596,
+    "Gender": "Female",
+    "Age": 56,
+    "EstimatedSalary": "Tinggi",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15586996,
+    "Gender": "Female",
+    "Age": 41,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15722061,
+    "Gender": "Female",
+    "Age": 51,
+    "EstimatedSalary": "Tinggi",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15638003,
+    "Gender": "Female",
+    "Age": 35,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15775590,
+    "Gender": "Female",
+    "Age": 57,
+    "EstimatedSalary": "Tinggi",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15730688,
+    "Gender": "Male",
+    "Age": 41,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15753102,
+    "Gender": "Female",
+    "Age": 35,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15810075,
+    "Gender": "Female",
+    "Age": 44,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15723373,
+    "Gender": "Male",
+    "Age": 37,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15795298,
+    "Gender": "Female",
+    "Age": 48,
+    "EstimatedSalary": "Tinggi",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15584320,
+    "Gender": "Female",
+    "Age": 37,
+    "EstimatedSalary": "Tinggi",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15724161,
+    "Gender": "Female",
+    "Age": 50,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15750056,
+    "Gender": "Female",
+    "Age": 52,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15609637,
+    "Gender": "Female",
+    "Age": 41,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15794493,
+    "Gender": "Male",
+    "Age": 40,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15569641,
+    "Gender": "Female",
+    "Age": 58,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15815236,
+    "Gender": "Female",
+    "Age": 45,
+    "EstimatedSalary": "Tinggi",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15811177,
+    "Gender": "Female",
+    "Age": 35,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15680587,
+    "Gender": "Male",
+    "Age": 36,
+    "EstimatedSalary": "Tinggi",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15672821,
+    "Gender": "Female",
+    "Age": 55,
+    "EstimatedSalary": "Tinggi",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15767681,
+    "Gender": "Female",
+    "Age": 35,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15600379,
+    "Gender": "Male",
+    "Age": 48,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15801336,
+    "Gender": "Female",
+    "Age": 42,
+    "EstimatedSalary": "Tinggi",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15721592,
+    "Gender": "Male",
+    "Age": 40,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15581282,
+    "Gender": "Male",
+    "Age": 37,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15746203,
+    "Gender": "Female",
+    "Age": 47,
+    "EstimatedSalary": "Tinggi",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15583137,
+    "Gender": "Male",
+    "Age": 40,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15680752,
+    "Gender": "Female",
+    "Age": 43,
+    "EstimatedSalary": "Tinggi",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15688172,
+    "Gender": "Female",
+    "Age": 59,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15791373,
+    "Gender": "Male",
+    "Age": 60,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15589449,
+    "Gender": "Male",
+    "Age": 39,
+    "EstimatedSalary": "Tinggi",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15692819,
+    "Gender": "Female",
+    "Age": 57,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15727467,
+    "Gender": "Male",
+    "Age": 57,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15734312,
+    "Gender": "Male",
+    "Age": 38,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15764604,
+    "Gender": "Male",
+    "Age": 49,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15613014,
+    "Gender": "Female",
+    "Age": 52,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15759684,
+    "Gender": "Female",
+    "Age": 50,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15609669,
+    "Gender": "Female",
+    "Age": 59,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15685536,
+    "Gender": "Male",
+    "Age": 35,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15750447,
+    "Gender": "Male",
+    "Age": 37,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15663249,
+    "Gender": "Female",
+    "Age": 52,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15638646,
+    "Gender": "Male",
+    "Age": 48,
+    "EstimatedSalary": "Tinggi",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15734161,
+    "Gender": "Female",
+    "Age": 37,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15631070,
+    "Gender": "Female",
+    "Age": 37,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15761950,
+    "Gender": "Female",
+    "Age": 48,
+    "EstimatedSalary": "Tinggi",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15649668,
+    "Gender": "Male",
+    "Age": 41,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15713912,
+    "Gender": "Female",
+    "Age": 37,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15586757,
+    "Gender": "Male",
+    "Age": 39,
+    "EstimatedSalary": "Tinggi",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15596522,
+    "Gender": "Male",
+    "Age": 49,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15625395,
+    "Gender": "Male",
+    "Age": 55,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15760570,
+    "Gender": "Male",
+    "Age": 37,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15566689,
+    "Gender": "Female",
+    "Age": 35,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15725794,
+    "Gender": "Female",
+    "Age": 36,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15673539,
+    "Gender": "Male",
+    "Age": 42,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15705298,
+    "Gender": "Female",
+    "Age": 43,
+    "EstimatedSalary": "Tinggi",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15675791,
+    "Gender": "Male",
+    "Age": 45,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15747043,
+    "Gender": "Male",
+    "Age": 46,
+    "EstimatedSalary": "Tinggi",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15736397,
+    "Gender": "Female",
+    "Age": 58,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15678201,
+    "Gender": "Male",
+    "Age": 48,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15720745,
+    "Gender": "Female",
+    "Age": 37,
+    "EstimatedSalary": "Tinggi",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15637593,
+    "Gender": "Male",
+    "Age": 37,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15598070,
+    "Gender": "Female",
+    "Age": 40,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15787550,
+    "Gender": "Male",
+    "Age": 42,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15603942,
+    "Gender": "Female",
+    "Age": 51,
+    "EstimatedSalary": "Tinggi",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15733973,
+    "Gender": "Female",
+    "Age": 47,
+    "EstimatedSalary": "Tinggi",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15596761,
+    "Gender": "Male",
+    "Age": 36,
+    "EstimatedSalary": "Tinggi",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15652400,
+    "Gender": "Female",
+    "Age": 38,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15717893,
+    "Gender": "Female",
+    "Age": 42,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15622585,
+    "Gender": "Male",
+    "Age": 39,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15733964,
+    "Gender": "Female",
+    "Age": 38,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15753861,
+    "Gender": "Female",
+    "Age": 49,
+    "EstimatedSalary": "Tinggi",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15747097,
+    "Gender": "Female",
+    "Age": 39,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15594762,
+    "Gender": "Female",
+    "Age": 39,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15667417,
+    "Gender": "Female",
+    "Age": 54,
+    "EstimatedSalary": "Tinggi",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15684861,
+    "Gender": "Male",
+    "Age": 35,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15742204,
+    "Gender": "Male",
+    "Age": 45,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15623502,
+    "Gender": "Male",
+    "Age": 36,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15774872,
+    "Gender": "Female",
+    "Age": 52,
+    "EstimatedSalary": "Tinggi",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15611191,
+    "Gender": "Female",
+    "Age": 53,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15674331,
+    "Gender": "Male",
+    "Age": 41,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15619465,
+    "Gender": "Female",
+    "Age": 48,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15575247,
+    "Gender": "Female",
+    "Age": 48,
+    "EstimatedSalary": "Tinggi",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15695679,
+    "Gender": "Female",
+    "Age": 41,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15713463,
+    "Gender": "Male",
+    "Age": 41,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15785170,
+    "Gender": "Female",
+    "Age": 42,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15796351,
+    "Gender": "Male",
+    "Age": 36,
+    "EstimatedSalary": "Tinggi",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15639576,
+    "Gender": "Female",
+    "Age": 47,
+    "EstimatedSalary": "Tinggi",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15693264,
+    "Gender": "Male",
+    "Age": 38,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15589715,
+    "Gender": "Female",
+    "Age": 48,
+    "EstimatedSalary": "Tinggi",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15769902,
+    "Gender": "Male",
+    "Age": 42,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15587177,
+    "Gender": "Male",
+    "Age": 40,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15814553,
+    "Gender": "Male",
+    "Age": 57,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15601550,
+    "Gender": "Female",
+    "Age": 36,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15664907,
+    "Gender": "Male",
+    "Age": 58,
+    "EstimatedSalary": "Tinggi",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15612465,
+    "Gender": "Male",
+    "Age": 35,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15810800,
+    "Gender": "Female",
+    "Age": 38,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15665760,
+    "Gender": "Male",
+    "Age": 39,
+    "EstimatedSalary": "Tinggi",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15588080,
+    "Gender": "Female",
+    "Age": 53,
+    "EstimatedSalary": "Tinggi",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15776844,
+    "Gender": "Male",
+    "Age": 35,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15717560,
+    "Gender": "Female",
+    "Age": 38,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15629739,
+    "Gender": "Female",
+    "Age": 47,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15729908,
+    "Gender": "Male",
+    "Age": 47,
+    "EstimatedSalary": "Tinggi",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15716781,
+    "Gender": "Female",
+    "Age": 41,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15646936,
+    "Gender": "Male",
+    "Age": 53,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15768151,
+    "Gender": "Female",
+    "Age": 54,
+    "EstimatedSalary": "Tinggi",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15579212,
+    "Gender": "Male",
+    "Age": 39,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15721835,
+    "Gender": "Male",
+    "Age": 38,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15800515,
+    "Gender": "Female",
+    "Age": 38,
+    "EstimatedSalary": "Tinggi",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15591279,
+    "Gender": "Male",
+    "Age": 37,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15587419,
+    "Gender": "Female",
+    "Age": 42,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15750335,
+    "Gender": "Female",
+    "Age": 37,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15699619,
+    "Gender": "Male",
+    "Age": 36,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15606472,
+    "Gender": "Male",
+    "Age": 60,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15778368,
+    "Gender": "Male",
+    "Age": 54,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15671387,
+    "Gender": "Female",
+    "Age": 41,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15573926,
+    "Gender": "Male",
+    "Age": 40,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15709183,
+    "Gender": "Male",
+    "Age": 42,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15577514,
+    "Gender": "Male",
+    "Age": 43,
+    "EstimatedSalary": "Tinggi",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15778830,
+    "Gender": "Female",
+    "Age": 53,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15768072,
+    "Gender": "Female",
+    "Age": 47,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15768293,
+    "Gender": "Female",
+    "Age": 42,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15654456,
+    "Gender": "Male",
+    "Age": 42,
+    "EstimatedSalary": "Tinggi",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15807525,
+    "Gender": "Female",
+    "Age": 59,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15574372,
+    "Gender": "Female",
+    "Age": 58,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15671249,
+    "Gender": "Male",
+    "Age": 46,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15779744,
+    "Gender": "Male",
+    "Age": 38,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15624755,
+    "Gender": "Female",
+    "Age": 54,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15611430,
+    "Gender": "Female",
+    "Age": 60,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15774744,
+    "Gender": "Male",
+    "Age": 60,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15629885,
+    "Gender": "Female",
+    "Age": 39,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15708791,
+    "Gender": "Male",
+    "Age": 59,
+    "EstimatedSalary": "Tinggi",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15793890,
+    "Gender": "Female",
+    "Age": 37,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15646091,
+    "Gender": "Female",
+    "Age": 46,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15596984,
+    "Gender": "Female",
+    "Age": 46,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15800215,
+    "Gender": "Female",
+    "Age": 42,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15577806,
+    "Gender": "Male",
+    "Age": 41,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15749381,
+    "Gender": "Female",
+    "Age": 58,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15683758,
+    "Gender": "Male",
+    "Age": 42,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15670615,
+    "Gender": "Male",
+    "Age": 48,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15715622,
+    "Gender": "Female",
+    "Age": 44,
+    "EstimatedSalary": "Tinggi",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15707634,
+    "Gender": "Male",
+    "Age": 49,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15806901,
+    "Gender": "Female",
+    "Age": 57,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15775335,
+    "Gender": "Male",
+    "Age": 56,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15724150,
+    "Gender": "Female",
+    "Age": 49,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15627220,
+    "Gender": "Male",
+    "Age": 39,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15672330,
+    "Gender": "Male",
+    "Age": 47,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15668521,
+    "Gender": "Female",
+    "Age": 48,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15807837,
+    "Gender": "Male",
+    "Age": 48,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15592570,
+    "Gender": "Male",
+    "Age": 47,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15748589,
+    "Gender": "Female",
+    "Age": 45,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15635893,
+    "Gender": "Male",
+    "Age": 60,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15757632,
+    "Gender": "Female",
+    "Age": 39,
+    "EstimatedSalary": "Sedang",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15691863,
+    "Gender": "Female",
+    "Age": 46,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15706071,
+    "Gender": "Male",
+    "Age": 51,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15755018,
+    "Gender": "Male",
+    "Age": 36,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "no"
+  },
+  {
+    "User ID": 15654296,
+    "Gender": "Female",
+    "Age": 50,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "yes"
+  },
+  {
+    "User ID": 15594041,
+    "Gender": "Female",
+    "Age": 49,
+    "EstimatedSalary": "Rendah",
+    "Purchased": "yes"
+  }
+]
